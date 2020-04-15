@@ -1,0 +1,216 @@
+Script started on 2020-04-15 11:24:17+02:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="191" LINES="51"]
+[H[2J[3JWelcome to xCf's domain. Happy easter!
+sigurd
+    ( _/) 
+     (^^) 
+    ()  ()
+    ( .X.) 
+   Easter Rabbit @ easter reddit.info 
+ A bit ruff nasty rabbiter.info
+
+[?25l[?7l[0m[31m[1m            .-/+oossssoo+/-.
+        `:+ssssssssssssssssss+:`
+      -+ssssssssssssssssssyyssss+-
+    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
+   /sssssssssss[37m[0m[1mhdmmNNmmyNMMMMh[0m[31m[1mssssss/
+  +sssssssss[37m[0m[1mhm[0m[31m[1myd[37m[0m[1mMMMMMMMNddddy[0m[31m[1mssssssss+
+ /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhmNMMMNh[0m[31m[1mssssssss/
+.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
++ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
+oss[37m[0m[1myNMMMNyMMh[0m[31m[1mssssssssssssss[37m[0m[1mhmmmh[0m[31m[1mssssssso
+oss[37m[0m[1myNMMMNyMMh[0m[31m[1msssssssssssssshmmmh[0m[31m[1mssssssso
++ssss[37m[0m[1mhhhyNMMNy[0m[31m[1mssssssssssss[37m[0m[1myNMMMy[0m[31m[1msssssss+
+.ssssssss[37m[0m[1mdMMMNh[0m[31m[1mssssssssss[37m[0m[1mhNMMMd[0m[31m[1mssssssss.
+ /ssssssss[37m[0m[1mhNMMM[0m[31m[1myh[37m[0m[1mhyyyyhdNMMMNh[0m[31m[1mssssssss/
+  +sssssssss[37m[0m[1mdm[0m[31m[1myd[37m[0m[1mMMMMMMMMddddy[0m[31m[1mssssssss+
+   /sssssssssss[37m[0m[1mhdmNNNNmyNMMMMh[0m[31m[1mssssss/
+    .ossssssssssssssssss[37m[0m[1mdMMMNy[0m[31m[1msssso.
+      -+sssssssssssssssss[37m[0m[1myyy[0m[31m[1mssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.[0m
+[20A[9999999D[43C[0m[1m[31m[1msigurd[0m@[31m[1mSkauvikOffice-SkauvikPROD[0m 
+[43C[0m--------------------------------[0m 
+[43C[0m[31m[1mOS[0m[0m:[0m Ubuntu Focal Fossa (development branch) x86_64[0m 
+[43C[0m[31m[1mKernel[0m[0m:[0m 5.4.0-21-generic[0m 
+[43C[0m[31m[1mUptime[0m[0m:[0m 5 days, 11 hours, 33 mins[0m 
+[43C[0m[31m[1mPackages[0m[0m:[0m 1784 (dpkg), 13 (snap)[0m 
+[43C[0m[31m[1mShell[0m[0m:[0m bash 5.0.16[0m 
+[43C[0m[31m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[43C[0m[31m[1mDE[0m[0m:[0m Budgie[0m 
+[43C[0m[31m[1mWM[0m[0m:[0m Mutter(Budgie)[0m 
+[43C[0m[31m[1mTheme[0m[0m:[0m Pocillo [GTK2/3][0m 
+[43C[0m[31m[1mIcons[0m[0m:[0m Pocillo [GTK2/3][0m 
+[43C[0m[31m[1mTerminal[0m[0m:[0m script[0m 
+[43C[0m[31m[1mCPU[0m[0m:[0m Intel i5-6600K (4) @ 3.900GHz[0m 
+[43C[0m[31m[1mGPU[0m[0m:[0m NVIDIA GeForce GTX 960[0m 
+[43C[0m[31m[1mMemory[0m[0m:[0m 6429MiB / 32044MiB[0m 
+
+[43C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[43C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7h]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ Echo" [K[K "#[KLogging a settion to typescript.. "[KYou j[Kwoi[K[K[Kwill [K[K[K[K[K[K[K[K[KAll commands are logged>"[K[K"
+
+Command 'Echo' not found, did you mean:
+
+  command 'echo' from deb coreutils (8.30-3ubuntu2)
+
+Try: sudo apt install <deb name>
+
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ Echo "Logging a settion to typescript.. All commands are logged"[1P[1@e
+Logging a settion to typescript.. All commands are logged
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ ls
+typescript
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ sudo apt-get install zoom
+[sudo] passord for sigurd: 
+Leser pakkelister ... 0%Leser pakkelister ... 100%Leser pakkelister ... Ferdig
+Skaper oversikt over avhengighetsforhold ... 0%Skaper oversikt over avhengighetsforhold ... 0%Skaper oversikt over avhengighetsforhold ... 50%Skaper oversikt over avhengighetsforhold ... 50%Skaper oversikt over avhengighetsforhold        
+Leser tilstandsinformasjon ... 0%       Leser tilstandsinformasjon ... 0%Leser tilstandsinformasjon ... Ferdig
+E: Klarer ikke å finne pakken zoom
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ apt-get update
+Leser pakkelister ... 0%Leser pakkelister ... 100%Leser pakkelister ... Ferdig
+E: Klarte ikke åpne låsefila /var/lib/apt/lists/lock - open (13: Ikke tilgang)
+E: Klarte ikke låse mappa /var/lib/apt/lists/
+W: Problem ved oppheving av lenke til fila /var/cache/apt/pkgcache.bin - RemoveCaches (13: Ikke tilgang)
+W: Problem ved oppheving av lenke til fila /var/cache/apt/srcpkgcache.bin - RemoveCaches (13: Ikke tilgang)
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ apt-get upgrade
+E: Klarte ikke åpne låsefila /var/lib/dpkg/lock-frontend - open (13: Ikke tilgang)
+E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ sudo apt-get upgrade
+Leser pakkelister ... 0%Leser pakkelister ... 100%Leser pakkelister ... Ferdig
+Skaper oversikt over avhengighetsforhold ... 0%Skaper oversikt over avhengighetsforhold ... 0%Skaper oversikt over avhengighetsforhold ... 50%Skaper oversikt over avhengighetsforhold ... 50%Skaper oversikt over avhengighetsforhold        
+Leser tilstandsinformasjon ... 0%       Leser tilstandsinformasjon ... 0%Leser tilstandsinformasjon ... Ferdig
+Beregner oppgradering ... 0%Beregner oppgradering ... 50%Beregner oppgradering ... Ferdig
+Følgende pakker ble automatisk installert og er ikke lenger påkrevet:
+  appmenu-gtk-module-common appmenu-gtk2-module appmenu-gtk3-module appmenu-registrar libappmenu-gtk2-parser0 libappmenu-gtk3-parser0 libdbusmenu-gtk4 libgranite-common libgranite5
+  libzeitgeist-2.0-0 vala-panel-appmenu-common
+Bruk «sudo apt autoremove» for å fjerne dem.
+Følgende pakker vil bli oppgradert:
+  grub-common grub-efi-amd64-bin grub-efi-amd64-signed grub-pc grub-pc-bin grub2-common libdrm-amdgpu1 libdrm-common libdrm-intel1 libdrm-nouveau2 libdrm-radeon1 libdrm2 python-apt-common
+  python3-apt unattended-upgrades
+15 oppgraderte, 0 nylig installerte, 0 å fjerne og 0 ikke oppgradert.
+Må hente 0 B/5 081 kB med arkiver.
+Etter denne operasjonen vil 4 096 B ekstra diskplass bli brukt.
+Vil du fortsette? [J/n] j
+Forhåndsoppsetter pakker ...
+(Leser database ... (Leser database ... 5%(Leser database ... 10%(Leser database ... 15%(Leser database ... 20%(Leser database ... 25%(Leser database ... 30%(Leser database ... 35%(Leser database ... 40%(Leser database ... 45%(Leser database ... 50%(Leser database ... 55%(Leser database ... 60%(Leser database ... 65%(Leser database ... 70%(Leser database ... 75%(Leser database ... 80%(Leser database ... 85%(Leser database ... 90%(Leser database ... 95%(Leser database ... 100%(Leser database ... 316972 filer og kataloger er for øyeblikket installerte.)
+Preparing to unpack .../00-libdrm-common_2.4.101-2_all.deb ...
+Unpacking libdrm-common (2.4.101-2) over (2.4.101-1) ...
+Preparing to unpack .../01-libdrm2_2.4.101-2_amd64.deb ...
+Unpacking libdrm2:amd64 (2.4.101-2) over (2.4.101-1) ...
+Preparing to unpack .../02-python-apt-common_2.0.0_all.deb ...
+Unpacking python-apt-common (2.0.0) over (1.9.10) ...
+Preparing to unpack .../03-python3-apt_2.0.0_amd64.deb ...
+Unpacking python3-apt (2.0.0) over (1.9.10) ...
+Preparing to unpack .../04-grub-pc_2.04-1ubuntu25_amd64.deb ...
+Unpacking grub-pc (2.04-1ubuntu25) over (2.04-1ubuntu24) ...
+Preparing to unpack .../05-grub2-common_2.04-1ubuntu25_amd64.deb ...
+Unpacking grub2-common (2.04-1ubuntu25) over (2.04-1ubuntu24) ...
+Preparing to unpack .../06-grub-pc-bin_2.04-1ubuntu25_amd64.deb ...
+Unpacking grub-pc-bin (2.04-1ubuntu25) over (2.04-1ubuntu24) ...
+Preparing to unpack .../07-grub-efi-amd64-signed_1.141+2.04-1ubuntu25_amd64.deb ...
+Unpacking grub-efi-amd64-signed (1.141+2.04-1ubuntu25) over (1.140+2.04-1ubuntu24) ...
+Preparing to unpack .../08-grub-efi-amd64-bin_2.04-1ubuntu25_amd64.deb ...
+Unpacking grub-efi-amd64-bin (2.04-1ubuntu25) over (2.04-1ubuntu24) ...
+Preparing to unpack .../09-grub-common_2.04-1ubuntu25_amd64.deb ...
+Unpacking grub-common (2.04-1ubuntu25) over (2.04-1ubuntu24) ...
+Preparing to unpack .../10-libdrm-amdgpu1_2.4.101-2_amd64.deb ...
+Unpacking libdrm-amdgpu1:amd64 (2.4.101-2) over (2.4.101-1) ...
+Preparing to unpack .../11-libdrm-intel1_2.4.101-2_amd64.deb ...
+Unpacking libdrm-intel1:amd64 (2.4.101-2) over (2.4.101-1) ...
+Preparing to unpack .../12-libdrm-nouveau2_2.4.101-2_amd64.deb ...
+Unpacking libdrm-nouveau2:amd64 (2.4.101-2) over (2.4.101-1) ...
+Preparing to unpack .../13-libdrm-radeon1_2.4.101-2_amd64.deb ...
+Unpacking libdrm-radeon1:amd64 (2.4.101-2) over (2.4.101-1) ...
+Preparing to unpack .../14-unattended-upgrades_2.3_all.deb ...
+Unpacking unattended-upgrades (2.3) over (2.2) ...
+Setter opp grub-common (2.04-1ubuntu25) ...
+Installerer ny versjon av oppsettsfila /etc/grub.d/10_linux_zfs ...
+update-rc.d: warning: start and stop actions are no longer supported; falling back to defaults
+Setter opp python-apt-common (2.0.0) ...
+Setter opp grub-efi-amd64-bin (2.04-1ubuntu25) ...
+Setter opp libdrm-common (2.4.101-2) ...
+Setter opp grub2-common (2.04-1ubuntu25) ...
+Setter opp python3-apt (2.0.0) ...
+Setter opp grub-pc-bin (2.04-1ubuntu25) ...
+Setter opp grub-pc (2.04-1ubuntu25) ...
+Sourcing file `/etc/default/grub'
+Sourcing file `/etc/default/grub.d/init-select.cfg'
+Generating grub configuration file ...
+Found linux image: /boot/vmlinuz-5.4.0-21-generic
+Found initrd image: /boot/initrd.img-5.4.0-21-generic
+feil: invalid volume.
+grub-probe: feil: fant ingen GRUB-enhet for /dev/sdc1. Sjekk fila «device.map».
+feil: invalid volume.
+grub-probe: feil: fant ingen GRUB-enhet for /dev/sdc3. Sjekk fila «device.map».
+feil: invalid volume.
+grub-probe: feil: fant ingen GRUB-enhet for /dev/sdc5. Sjekk fila «device.map».
+feil: invalid volume.
+grub-probe: feil: fant ingen GRUB-enhet for /dev/sdc7. Sjekk fila «device.map».
+Adding boot menu entry for UEFI Firmware Settings
+done
+Setter opp unattended-upgrades (2.3) ...
+Setter opp libdrm2:amd64 (2.4.101-2) ...
+Setter opp libdrm-amdgpu1:amd64 (2.4.101-2) ...
+Setter opp libdrm-nouveau2:amd64 (2.4.101-2) ...
+Setter opp grub-efi-amd64-signed (1.141+2.04-1ubuntu25) ...
+Installing grub to /boot/efi.
+Installerer for plattformen x86_64-efi.
+Installasjonen er ferdig. Ingen programfeil oppstod.
+Setter opp libdrm-radeon1:amd64 (2.4.101-2) ...
+Setter opp libdrm-intel1:amd64 (2.4.101-2) ...
+Processing triggers for man-db (2.9.1-1) ...
+Processing triggers for install-info (6.7.0.dfsg.2-5) ...
+Processing triggers for libc-bin (2.31-0ubuntu7) ...
+Processing triggers for systemd (245.4-2ubuntu1) ...
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ mkdir My[K[K[K[K[K[K[K[Kgit [K[K[K[Kcta [K[K[Kat /inte[K[K[K[K[K[K ./inte[K[K[K[Kin[K[K[K[K~[K̃ [K[K ~/([Kinteresser/b[Kgitrepo.txt 
+…or create a new repository on the command line
+
+echo "# sevenup" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/iktspesialisten/sevenup.git
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/iktspesialisten/sevenup.git
+git push -u origin master
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ git init
+Initialized empty Git repository in /home/sigurd/interesser/BASH/.git/
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ git add README.md
+fatal: pathspec 'README.md' did not match any files
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ git commit -m "First commit"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'sigurd@SkauvikOffice-SkauvikPROD.(none)')
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ git config --global user.email "sigurdsk@iktss.onmicrosoft.com"
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ git config -- user.name "SIgurd [K[K[K[K[K[Kigurd SKauvik"
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ git -m "First commit"
+unknown option: -m
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+]0;sigurd@SkauvikOffice-SkauvikPROD:~/interesser/BASH\]7;file://SkauvikOffice-SkauvikPROD/home/sigurd/interesser/BASH\]0;sigurd@SkauvikOffice-SkauvikPROD: ~/interesser/BASH[01;32msigurd@SkauvikOffice-SkauvikPROD[00m:[01;34m~/interesser/BASH[00m$ git commit -.[Km "First commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mtypescript[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+
