@@ -5,5 +5,5 @@ echo "Provide a name for this commit:"
 read commitname
 git commit -m "$commitname"
 git push -u origin master
-echo "All done...
+echo "All done.."
 
